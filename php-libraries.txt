@@ -1,1 +1,1 @@
-libjpeg,freetype,libwebp,libiconv-win
+libjpeg,freetype,libwebp,libiconv-win,libiconv,bzip2,curl,libavif,libffi-win,libpng,librabbitmq,libssh2,libxml2,libyaml,libzip,nghttp2,openssl,postgresql-win,sqlite,xz,zlib
